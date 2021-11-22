@@ -1,0 +1,9 @@
+numpy
+matplotlib
+
+KMeans
+pairwise_distances_argmin
+load_sample_image
+shuffle
+time
+io
