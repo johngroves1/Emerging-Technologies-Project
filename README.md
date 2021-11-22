@@ -22,3 +22,9 @@ A README should be included with the following content:
 
 
 # Instructions on how to run notebooks
+
+## Quick steps
+You can view the notebook in static form by clicking the following:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/johngroves1/Emerging-Technologies-Project/blob/main/scikit-learn.ipynb)
+
