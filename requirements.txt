@@ -2,7 +2,7 @@ numpy
 matplotlib
 
 KMeans
-sklearn.metrics.pairwise_distances
+sklearn.metrics
 sklearn.datasets.load_sample_image
 sklearn.utils.shuffle
 time
