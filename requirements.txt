@@ -1,9 +1,9 @@
 numpy
 matplotlib
 
-KMeans
-pairwise_distances_argmin
-load_sample_image
-shuffle
+from sklearn.cluster import KMeans
+from sklearn.metrics import pairwise_distances_argmin
+from sklearn.datasets import load_sample_image
+from sklearn.utils import shuffle
 time
 io
