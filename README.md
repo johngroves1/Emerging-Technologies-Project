@@ -18,6 +18,7 @@ A README should be included with the following content:
 
 
 # Description
+This repository contains two indept Jupyter Notebooks. It also includes a Dockerfile for running the notebooks locally. As well as the necessary data sets and images for the notebooks themselves.
 
 
 
@@ -28,6 +29,6 @@ You can view the notebook in static form by clicking the following:
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/johngroves1/Emerging-Technologies-Project/blob/main/scikit-learn.ipynb)
 
-## How to run the notebook
+
 
 
