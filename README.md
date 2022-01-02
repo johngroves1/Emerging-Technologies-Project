@@ -11,33 +11,42 @@ A README should be included with the following content:
 
 
 # Contents of the notebook
-## Scikit-Learn Notebook
+### Scikit-Learn Notebook
 * A clear and concise overview of the scikit-learn Python library
 * Demonstrate of three interesting algorithms
 * Appropriate plots and other visualisations
 
-## Scikit-Learn Notebook
+### Scikit-Learn Notebook
 * A clear and concise comparison of quantum computing and classical computing
 * An explenation of Deutsch's algorithm
 * Deutsch's algorithm simulated using qiskit
 
 # How to run notebooks in Docker
 To open this repository on Docker, follow these steps:
-* Install Docker onto your machine. A link to the Docker website is here
-* Clone this repository by copying this URL
+* Install Docker onto your machine. A link to the Docker website is [here](https://www.docker.com/)
+* Clone this repository by copying this [Github repository link](https://github.com/johngroves1/Emerging-Technologies-Project)
 * Open the cloned folder of this repository
-* Run the installed Docker on your PC
+* Launch the installed Docker on your PC
 * Run the docker container with this command:
-* Once docker is loaded, copy the localhost URL link into your browser 
+ ``` 
+  docker-compose up
+ ```
+*  Once docker is loaded, copy the localhost URL link into your browser
 
 # How to run notebooks locally
 To run this repository on your local machine, follow these steps:
-* Install Anaconda3 onto your machine. A link to the Anaconda website is here
-* Run this command in a new terminal
-* Clone this repository by copying this URL
+* Install Anaconda3 onto your machine. A link to the Anaconda website is given [here](https://www.anaconda.com/products/individual)
+* Run this command in a new terminal to install jupyter lab:
+``` 
+conda install -c conda-forge jupyterlab
+```
+* Clone this repository by copying this [Github repository link](https://github.com/johngroves1/Emerging-Technologies-Project)
 * Open the cloned folder of this repository
 * Open a terminal in this folder
-* Run the notebooks with this command
+* Run the notebooks with the following command
+``` 
+  run jupyter lab
+```
 
 ## Quick steps
 Alternatively you can view the notebook in static form by clicking the following:
